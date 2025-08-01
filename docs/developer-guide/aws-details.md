@@ -1,4 +1,4 @@
-# AWS Providerd
+# AWS Provider
 
 In this page you can find all the details about [Amazon Web Services (AWS)](https://aws.amazon.com/) provider implementation in Prowler.
 
